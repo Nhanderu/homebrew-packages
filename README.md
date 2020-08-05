@@ -6,17 +6,22 @@ Personal [Homebrew][1] packages.
 
 ## Packages
 
-### [dois-mil][2]
+### [`dois-mil`][2]
 
-2048 in the terminal
+2048 in the terminal!
+
+### [`dioni`][3]
+
+Real random for Spotify!
 
 ## License
 
-This project code is in the public domain. See the [LICENSE file][3].
+This project code is in the public domain. See the [LICENSE file][4].
 
 [1]: https://brew.sh/
 [2]: https://github.com/Nhanderu/dois-mil
-[3]: ./LICENSE
+[3]: https://github.com/Nhanderu/dioni
+[4]: ./LICENSE
 
 [badge-1-img]: https://img.shields.io/github/license/Nhanderu/homebrew-packages?style=flat-square
 [badge-1-link]: https://github.com/Nhanderu/homebrew-packages/blob/master/LICENSE
