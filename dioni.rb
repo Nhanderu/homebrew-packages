@@ -1,8 +1,8 @@
 class Dioni < Formula
   desc "Real random for Spotify!"
   homepage "https://github.com/Nhanderu/dioni"
-  url "https://github.com/Nhanderu/dioni/archive/v1.2.0.tar.gz"
-  sha256 "3c2b4cfbaeb446a6edb1543d6275ab6a2be3b2901d2ec686fcae99ced4b9d9fe"
+  url "https://github.com/Nhanderu/dioni/archive/v1.2.1.tar.gz"
+  sha256 "a9b5c70145431dcee56ab319f793498401eae944c3af4e68485018f58fc88c10"
   license "Unlicense"
 
   depends_on "rust" => :build
