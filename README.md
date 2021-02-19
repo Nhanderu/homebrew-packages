@@ -31,7 +31,7 @@ domain, without any additional terms or conditions.
 [1]: https://brew.sh/
 [2]: https://github.com/Nhanderu/dois-mil
 [3]: https://github.com/Nhanderu/dioni
-[3]: https://github.com/Nhanderu/gridt
+[4]: https://github.com/Nhanderu/gridt
 [5]: ./LICENSE
 
 [badge-1-img]: https://img.shields.io/github/license/Nhanderu/homebrew-packages?style=flat-square
